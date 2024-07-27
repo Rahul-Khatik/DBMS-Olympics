@@ -1,4 +1,4 @@
-# DBMS-Project-Olympics
+# DBMS-Olympics
 
 - ### OlympiDB is a database management system project that focuses on managing data related to the Olympic Games. This repository contains all the necessary files and documentation for the project.
 
